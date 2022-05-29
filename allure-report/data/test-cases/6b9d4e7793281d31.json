@@ -1,0 +1,62 @@
+{
+  "uid" : "6b9d4e7793281d31",
+  "name" : "alert message for besic auth",
+  "fullName" : "My Login application.alert message for besic auth",
+  "historyId" : "23ae1904ceebc19b4af9d3276590ca5a",
+  "time" : {
+    "start" : 1653501365524,
+    "stop" : 1653501376091,
+    "duration" : 10567
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"#checkboxes\" because element wasn't found\n                    at Context.<anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/example.e2e.js:17:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "alert message for besic auth"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6b9d4e7793281d31.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

@@ -1,0 +1,149 @@
+{
+  "uid" : "d8103c6884205346",
+  "name" : "alert message for besic auth",
+  "fullName" : "My Login application.alert message for besic auth",
+  "historyId" : "4d01aafd21d59f7a1b9e20bd6f71843",
+  "time" : {
+    "start" : 1653465490327,
+    "stop" : 1653465500662,
+    "duration" : 10335
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+  "statusTrace" : "Error: Can't call click on element with selector \"#checkboxes\" because element wasn't found\n                    at Context.<anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/example.e2e.js:16:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 9,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "alert message for besic auth"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f284869637e9d3fe",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653465454356,
+        "stop" : 1653465464704,
+        "duration" : 10348
+      }
+    }, {
+      "uid" : "ef47b40759955f66",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653465454249,
+        "stop" : 1653465464609,
+        "duration" : 10360
+      }
+    }, {
+      "uid" : "3bc153eb4f030bdc",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653465192199,
+        "stop" : 1653465202686,
+        "duration" : 10487
+      }
+    }, {
+      "uid" : "8d82953bd25db82",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653392384827,
+        "stop" : 1653392395219,
+        "duration" : 10392
+      }
+    }, {
+      "uid" : "a1e575a85205f1b9",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653392384727,
+        "stop" : 1653392395153,
+        "duration" : 10426
+      }
+    }, {
+      "uid" : "2c58cc5f99087673",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653392052601,
+        "stop" : 1653392064255,
+        "duration" : 11654
+      }
+    }, {
+      "uid" : "8d1b3ca7b7f452d8",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653392052160,
+        "stop" : 1653392064215,
+        "duration" : 12055
+      }
+    }, {
+      "uid" : "1f312472d2a519bd",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653391587934,
+        "stop" : 1653391599495,
+        "duration" : 11561
+      }
+    }, {
+      "uid" : "c5e61b36ea5a0f40",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653391587747,
+        "stop" : 1653391599401,
+        "duration" : 11654
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "d8103c6884205346.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}

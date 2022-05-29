@@ -1,0 +1,203 @@
+{
+  "uid" : "74186ba5c2c87f60",
+  "name" : "scrolling horizontallu",
+  "fullName" : "My Login application.scrolling horizontallu",
+  "historyId" : "c947a6af2d82a69690131638872f1c92",
+  "time" : {
+    "start" : 1653838789160,
+    "stop" : 1653838797858,
+    "duration" : 8698
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 17,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "scrolling horizontallu"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "624bd9df7793ae8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838768915,
+        "stop" : 1653838774404,
+        "duration" : 5489
+      }
+    }, {
+      "uid" : "dd4e1e189a21453a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837512484,
+        "stop" : 1653837517188,
+        "duration" : 4704
+      }
+    }, {
+      "uid" : "15c371bb8d561ada",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837185233,
+        "stop" : 1653837191334,
+        "duration" : 6101
+      }
+    }, {
+      "uid" : "df147ab69c56ff97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837169605,
+        "stop" : 1653837174564,
+        "duration" : 4959
+      }
+    }, {
+      "uid" : "7279547c3c195be7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829488209,
+        "stop" : 1653829494674,
+        "duration" : 6465
+      }
+    }, {
+      "uid" : "d966c0fedbaceba0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829428668,
+        "stop" : 1653829435520,
+        "duration" : 6852
+      }
+    }, {
+      "uid" : "e0bc23df7ab34826",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829378809,
+        "stop" : 1653829383487,
+        "duration" : 4678
+      }
+    }, {
+      "uid" : "aebc422d16516e8f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653828977466,
+        "stop" : 1653828982473,
+        "duration" : 5007
+      }
+    }, {
+      "uid" : "696419d1e37f0d2e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653726940651,
+        "stop" : 1653726945043,
+        "duration" : 4392
+      }
+    }, {
+      "uid" : "5bfdca14de40b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653587103359,
+        "stop" : 1653587110162,
+        "duration" : 6803
+      }
+    }, {
+      "uid" : "ecb23eebcc8b0146",
+      "status" : "broken",
+      "statusDetails" : "excuterScript is not defined",
+      "time" : {
+        "start" : 1653586823980,
+        "stop" : 1653586828567,
+        "duration" : 4587
+      }
+    }, {
+      "uid" : "9afe49946c4abd7f",
+      "status" : "broken",
+      "statusDetails" : "jse is not defined",
+      "time" : {
+        "start" : 1653586793279,
+        "stop" : 1653586797480,
+        "duration" : 4201
+      }
+    }, {
+      "uid" : "8f4e2161b23370f2",
+      "status" : "broken",
+      "statusDetails" : "thread is not defined",
+      "time" : {
+        "start" : 1653586761881,
+        "stop" : 1653586768307,
+        "duration" : 6426
+      }
+    }, {
+      "uid" : "47d895b35410ac3",
+      "status" : "broken",
+      "statusDetails" : "waitForDomLoading is not defined",
+      "time" : {
+        "start" : 1653585462622,
+        "stop" : 1653585467763,
+        "duration" : 5141
+      }
+    }, {
+      "uid" : "3a210fff128972b",
+      "status" : "broken",
+      "statusDetails" : "waitForDomLoading is not defined",
+      "time" : {
+        "start" : 1653585417333,
+        "stop" : 1653585423583,
+        "duration" : 6250
+      }
+    }, {
+      "uid" : "e9ef8ed0fd3c49cf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653585358739,
+        "stop" : 1653585366417,
+        "duration" : 7678
+      }
+    }, {
+      "uid" : "fc397de2181822a8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653585339114,
+        "stop" : 1653585346394,
+        "duration" : 7280
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "74186ba5c2c87f60.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

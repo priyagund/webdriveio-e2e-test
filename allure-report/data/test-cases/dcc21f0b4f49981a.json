@@ -1,0 +1,368 @@
+{
+  "uid" : "dcc21f0b4f49981a",
+  "name" : "search for groceries",
+  "fullName" : "Dunzo Login.search for groceries",
+  "historyId" : "b8c4fc1ed315a134944858fc2bd1462f",
+  "time" : {
+    "start" : 1653838788891,
+    "stop" : 1653838796207,
+    "duration" : 7316
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 35,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "search for groceries"
+  }, {
+    "name" : "package",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "86ef279ddd7d9586",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838769133,
+        "stop" : 1653838773711,
+        "duration" : 4578
+      }
+    }, {
+      "uid" : "8ebe718d52c47b47",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837512509,
+        "stop" : 1653837516933,
+        "duration" : 4424
+      }
+    }, {
+      "uid" : "e1f834975f54e7f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837373361,
+        "stop" : 1653837376744,
+        "duration" : 3383
+      }
+    }, {
+      "uid" : "59f66642172c2a8b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837337852,
+        "stop" : 1653837341313,
+        "duration" : 3461
+      }
+    }, {
+      "uid" : "ab0fa88d77fc97e5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837320665,
+        "stop" : 1653837323900,
+        "duration" : 3235
+      }
+    }, {
+      "uid" : "7af7ca0ca8ad1926",
+      "status" : "broken",
+      "statusDetails" : "browser.key is not a function",
+      "time" : {
+        "start" : 1653837289148,
+        "stop" : 1653837292848,
+        "duration" : 3700
+      }
+    }, {
+      "uid" : "313c533bf3297cbb",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653837200106,
+        "stop" : 1653837204446,
+        "duration" : 4340
+      }
+    }, {
+      "uid" : "11ee0b126bdd8596",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653837184995,
+        "stop" : 1653837189176,
+        "duration" : 4181
+      }
+    }, {
+      "uid" : "4fddf2fb8c1c4206",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653837169601,
+        "stop" : 1653837173890,
+        "duration" : 4289
+      }
+    }, {
+      "uid" : "b35bef5ed77561d4",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653836857349,
+        "stop" : 1653836863002,
+        "duration" : 5653
+      }
+    }, {
+      "uid" : "b3dc3b612a8907a4",
+      "status" : "broken",
+      "statusDetails" : "unknown error: net::ERR_INTERNET_DISCONNECTED\n                  (Session info: chrome=102.0.5005.61)",
+      "time" : {
+        "start" : 1653836833705,
+        "stop" : 1653836836036,
+        "duration" : 2331
+      }
+    }, {
+      "uid" : "20c8b5d22b5341b2",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653836620245,
+        "stop" : 1653836624068,
+        "duration" : 3823
+      }
+    }, {
+      "uid" : "24af107672fad0e1",
+      "status" : "broken",
+      "statusDetails" : "search.setValue is not a function",
+      "time" : {
+        "start" : 1653829957344,
+        "stop" : 1653829960390,
+        "duration" : 3046
+      }
+    }, {
+      "uid" : "c5085ad38647c786",
+      "status" : "broken",
+      "statusDetails" : "element (\"input[value=\"Search for item or a store\"]\") still not displayed after 30000ms",
+      "time" : {
+        "start" : 1653829873477,
+        "stop" : 1653829906960,
+        "duration" : 33483
+      }
+    }, {
+      "uid" : "c87f5c01f09b5cd5",
+      "status" : "broken",
+      "statusDetails" : "search.text is not a function",
+      "time" : {
+        "start" : 1653829513424,
+        "stop" : 1653829517847,
+        "duration" : 4423
+      }
+    }, {
+      "uid" : "b80e987e5deff350",
+      "status" : "broken",
+      "statusDetails" : "search.text is not a function",
+      "time" : {
+        "start" : 1653829487888,
+        "stop" : 1653829493141,
+        "duration" : 5253
+      }
+    }, {
+      "uid" : "354e526e2725ffff",
+      "status" : "broken",
+      "statusDetails" : "search.text is not a function",
+      "time" : {
+        "start" : 1653829429200,
+        "stop" : 1653829434353,
+        "duration" : 5153
+      }
+    }, {
+      "uid" : "cae28e154c666bf",
+      "status" : "broken",
+      "statusDetails" : "search.text is not a function",
+      "time" : {
+        "start" : 1653829411028,
+        "stop" : 1653829415899,
+        "duration" : 4871
+      }
+    }, {
+      "uid" : "9dd019d45976e4ee",
+      "status" : "broken",
+      "statusDetails" : "search.text is not a function",
+      "time" : {
+        "start" : 1653829378499,
+        "stop" : 1653829382026,
+        "duration" : 3527
+      }
+    }, {
+      "uid" : "c2b5e23e8fb67d67",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"input[value=\"Search for item or a store\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653828977122,
+        "stop" : 1653829011074,
+        "duration" : 33952
+      }
+    }, {
+      "uid" : "f5599093866a2da3",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"input[value=\"Search for item or a store\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653828844780,
+        "stop" : 1653828879474,
+        "duration" : 34694
+      }
+    }, {
+      "uid" : "46618aa0b66412cd",
+      "status" : "broken",
+      "statusDetails" : "browser.waitForExist is not a function",
+      "time" : {
+        "start" : 1653828195091,
+        "stop" : 1653828199494,
+        "duration" : 4403
+      }
+    }, {
+      "uid" : "e7d2668be6e31205",
+      "status" : "broken",
+      "statusDetails" : "browser.waitForExist is not a function",
+      "time" : {
+        "start" : 1653828164125,
+        "stop" : 1653828169306,
+        "duration" : 5181
+      }
+    }, {
+      "uid" : "b8de508def9f5175",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653814177854,
+        "stop" : 1653814183108,
+        "duration" : 5254
+      }
+    }, {
+      "uid" : "fe8349473d20a5c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653813985233,
+        "stop" : 1653813988392,
+        "duration" : 3159
+      }
+    }, {
+      "uid" : "bd7a7c9d0bc8151a",
+      "status" : "broken",
+      "statusDetails" : "browser.waitForExist is not a function",
+      "time" : {
+        "start" : 1653813946550,
+        "stop" : 1653813952251,
+        "duration" : 5701
+      }
+    }, {
+      "uid" : "e09ba0708afd53aa",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653806702121,
+        "stop" : 1653806707509,
+        "duration" : 5388
+      }
+    }, {
+      "uid" : "d4ce47df7d2e1090",
+      "status" : "broken",
+      "statusDetails" : "Can't call addValue on element with selector \"input[value=\"Search for item or a store\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653806337165,
+        "stop" : 1653806350703,
+        "duration" : 13538
+      }
+    }, {
+      "uid" : "facef760f4f8f50c",
+      "status" : "broken",
+      "statusDetails" : "(intermediate value).search is not a function",
+      "time" : {
+        "start" : 1653806075812,
+        "stop" : 1653806078866,
+        "duration" : 3054
+      }
+    }, {
+      "uid" : "841faae9eeb5ae6b",
+      "status" : "broken",
+      "statusDetails" : "Can't call addValue on element with selector \"input[value=\"Search for item or a store\"]\" because element wasn't found",
+      "time" : {
+        "start" : 1653728083443,
+        "stop" : 1653728098256,
+        "duration" : 14813
+      }
+    }, {
+      "uid" : "be720f3234354b4b",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=102.0.5005.61)",
+      "time" : {
+        "start" : 1653727847831,
+        "stop" : 1653727851428,
+        "duration" : 3597
+      }
+    }, {
+      "uid" : "55c7d20155f78ec1",
+      "status" : "broken",
+      "statusDetails" : "invalid selector: An invalid or illegal selector was specified\n                  (Session info: chrome=102.0.5005.61)",
+      "time" : {
+        "start" : 1653727756259,
+        "stop" : 1653727760583,
+        "duration" : 4324
+      }
+    }, {
+      "uid" : "8a996efb357dc961",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653727129680,
+        "stop" : 1653727133731,
+        "duration" : 4051
+      }
+    }, {
+      "uid" : "926a344a5f478285",
+      "status" : "broken",
+      "statusDetails" : "browser.search is not a function",
+      "time" : {
+        "start" : 1653727100864,
+        "stop" : 1653727103551,
+        "duration" : 2687
+      }
+    }, {
+      "uid" : "a0c53cee8c074054",
+      "status" : "broken",
+      "statusDetails" : "browser.search is not a function",
+      "time" : {
+        "start" : 1653726940646,
+        "stop" : 1653726943534,
+        "duration" : 2888
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dcc21f0b4f49981a.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

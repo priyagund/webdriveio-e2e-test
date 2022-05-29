@@ -1,0 +1,62 @@
+{
+  "uid" : "a0c53cee8c074054",
+  "name" : "search for groceries",
+  "fullName" : "Dunzo Login.search for groceries",
+  "historyId" : "b8c4fc1ed315a134944858fc2bd1462f",
+  "time" : {
+    "start" : 1653726940646,
+    "stop" : 1653726943534,
+    "duration" : 2888
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "browser.search is not a function",
+  "statusTrace" : "TypeError: browser.search is not a function\n                    at Context.<anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/dunzo-login.js:9:23)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "search for groceries"
+  }, {
+    "name" : "package",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a0c53cee8c074054.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

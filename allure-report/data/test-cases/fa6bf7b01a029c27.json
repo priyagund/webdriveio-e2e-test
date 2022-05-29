@@ -1,0 +1,108 @@
+{
+  "uid" : "fa6bf7b01a029c27",
+  "name" : "clicked checkboxes",
+  "fullName" : "My Login application.clicked checkboxes",
+  "historyId" : "42e2237d6f89efebe723a32e78ac3140",
+  "time" : {
+    "start" : 1653472961137,
+    "stop" : 1653472961510,
+    "duration" : 373
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "input is not defined",
+  "statusTrace" : "ReferenceError: input is not defined\n                    at SecurePage.checkboxex (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/pageobjects/secure.page.js:17:18)\n                    at Context.<anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/example.e2e.js:24:33)\n                    at processTicksAndRejections (node:internal/process/task_queues:96:5)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 5,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "clicked checkboxes"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3ed4764ecfd48606",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472386053,
+        "stop" : 1653472386393,
+        "duration" : 340
+      }
+    }, {
+      "uid" : "5faaeaadee21e44a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472268082,
+        "stop" : 1653472268471,
+        "duration" : 389
+      }
+    }, {
+      "uid" : "d1fe192f38f32216",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472163116,
+        "stop" : 1653472163443,
+        "duration" : 327
+      }
+    }, {
+      "uid" : "8ef34c45b14a2d3b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472070497,
+        "stop" : 1653472070940,
+        "duration" : 443
+      }
+    }, {
+      "uid" : "27def923878a19e2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471695955,
+        "stop" : 1653471696362,
+        "duration" : 407
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "fa6bf7b01a029c27.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

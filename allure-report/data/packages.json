@@ -1,0 +1,149 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "alert message for besic auth",
+      "uid" : "d8103c6884205346",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465490327,
+        "stop" : 1653465500662,
+        "duration" : 10335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "6e8e84f081fb3323",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465906413,
+        "stop" : 1653465917872,
+        "duration" : 11459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 15,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "fa6bf7b01a029c27",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653472961137,
+        "stop" : 1653472961510,
+        "duration" : 373
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "1836323b42204f40",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653501402570,
+        "stop" : 1653501412940,
+        "duration" : 10370
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "2ced35e2c7fcd884",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501457229,
+        "stop" : 1653501466272,
+        "duration" : 9043
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "forgot password",
+      "uid" : "8540454fe0abf4fb",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501466273,
+        "stop" : 1653501467005,
+        "duration" : 732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "74186ba5c2c87f60",
+      "parentUid" : "f43874cc36d1c5833cbb332fc53460ce",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838789160,
+        "stop" : 1653838797858,
+        "duration" : 8698
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 17,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    } ],
+    "uid" : "f43874cc36d1c5833cbb332fc53460ce"
+  }, {
+    "name" : "Dunzo Login",
+    "children" : [ {
+      "name" : "search for groceries",
+      "uid" : "dcc21f0b4f49981a",
+      "parentUid" : "23c3e442200a6a5fe14116571924c5b9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838788891,
+        "stop" : 1653838796207,
+        "duration" : 7316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 35,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    } ],
+    "uid" : "23c3e442200a6a5fe14116571924c5b9"
+  } ]
+}

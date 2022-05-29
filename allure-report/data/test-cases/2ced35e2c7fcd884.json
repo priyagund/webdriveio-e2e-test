@@ -1,0 +1,168 @@
+{
+  "uid" : "2ced35e2c7fcd884",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "3e260fc30ad726f192bfbddf598fbeab",
+  "time" : {
+    "start" : 1653501457229,
+    "stop" : 1653501466272,
+    "duration" : 9043
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 13,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "c66244dede4cbe07",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501396413,
+        "stop" : 1653501402570,
+        "duration" : 6157
+      }
+    }, {
+      "uid" : "1774c74f17a520f7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501359248,
+        "stop" : 1653501365524,
+        "duration" : 6276
+      }
+    }, {
+      "uid" : "6a986da8fb580b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653484795769,
+        "stop" : 1653484802367,
+        "duration" : 6598
+      }
+    }, {
+      "uid" : "93079ab3143f4e85",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472955134,
+        "stop" : 1653472961137,
+        "duration" : 6003
+      }
+    }, {
+      "uid" : "f29709061c7ea963",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472381557,
+        "stop" : 1653472386053,
+        "duration" : 4496
+      }
+    }, {
+      "uid" : "f42a80f77ef9dbd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472263207,
+        "stop" : 1653472268082,
+        "duration" : 4875
+      }
+    }, {
+      "uid" : "6148ef11c4eaef00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472157697,
+        "stop" : 1653472163113,
+        "duration" : 5416
+      }
+    }, {
+      "uid" : "f819abac9cda6b4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472065067,
+        "stop" : 1653472070496,
+        "duration" : 5429
+      }
+    }, {
+      "uid" : "2bb0788048b57906",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471678956,
+        "stop" : 1653471685532,
+        "duration" : 6576
+      }
+    }, {
+      "uid" : "e629033091b8bbe1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467271602,
+        "stop" : 1653467277367,
+        "duration" : 5765
+      }
+    }, {
+      "uid" : "af60cbd0123591ba",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467021153,
+        "stop" : 1653467027705,
+        "duration" : 6552
+      }
+    }, {
+      "uid" : "741c148cc568e6c7",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653466863806,
+        "stop" : 1653466876433,
+        "duration" : 12627
+      }
+    }, {
+      "uid" : "c17b135bd8a8cdf",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653466780597,
+        "stop" : 1653466792038,
+        "duration" : 11441
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2ced35e2c7fcd884.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

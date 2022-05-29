@@ -1,0 +1,60 @@
+{
+  "uid" : "8ebe718d52c47b47",
+  "name" : "search for groceries",
+  "fullName" : "Dunzo Login.search for groceries",
+  "historyId" : "b8c4fc1ed315a134944858fc2bd1462f",
+  "time" : {
+    "start" : 1653837512509,
+    "stop" : 1653837516933,
+    "duration" : 4424
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testClass",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "testMethod",
+    "value" : "search for groceries"
+  }, {
+    "name" : "package",
+    "value" : "Dunzo Login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-102.0.5005.61"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ebe718d52c47b47.json",
+  "parameterValues" : [ "chrome-102.0.5005.61" ]
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653586823980' stop='1653586828568'>
+    <name>My Login application</name>
+    <title>My Login application</title>
+    <test-cases>
+        <test-case start='1653586823980' status='broken' stop='1653586828567'>
+            <name>scrolling horizontallu</name>
+            <title>scrolling horizontallu</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>excuterScript is not defined</message>
+                <stack-trace>ReferenceError: excuterScript is not defined
+                    at Context.&lt;anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/example.e2e.js:29:9)
+                    at processTicksAndRejections (node:internal/process/task_queues:96:5)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

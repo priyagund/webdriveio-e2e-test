@@ -1,0 +1,25 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1653806702121' stop='1653806707510'>
+    <name>Dunzo Login</name>
+    <title>Dunzo Login</title>
+    <test-cases>
+        <test-case start='1653806702121' status='passed' stop='1653806707509'>
+            <name>search for groceries</name>
+            <title>search for groceries</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.61'/>
+                <parameter kind='argument' name='browser' value='chrome-102.0.5005.61'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

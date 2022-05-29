@@ -1,0 +1,199 @@
+{
+  "uid" : "6e8e84f081fb3323",
+  "name" : "should login with valid credentials",
+  "fullName" : "My Login application.should login with valid credentials",
+  "historyId" : "28e7e95ab9dea7c7a8f12d1ed229a857",
+  "time" : {
+    "start" : 1653465906413,
+    "stop" : 1653465917872,
+    "duration" : 11459
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+  "statusTrace" : "Error: Can't call setValue on element with selector \"#username\" because element wasn't found\n                    at LoginPage.login (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/pageobjects/login.page.js:29:9)\n                    at Context.<anonymous> (/Users/priyankagund/Documents/Github/webdriveio-e2e-test/test/specs/example.e2e.js:8:9)",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 15,
+  "retriesStatusChange" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "should login with valid credentials"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-101.0.4951.64"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "56f6af8ee4634962",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465478942,
+        "stop" : 1653465490327,
+        "duration" : 11385
+      }
+    }, {
+      "uid" : "e0ca8f96716c5b00",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465442919,
+        "stop" : 1653465454356,
+        "duration" : 11437
+      }
+    }, {
+      "uid" : "42ac2e72c47ebef2",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465442507,
+        "stop" : 1653465454248,
+        "duration" : 11741
+      }
+    }, {
+      "uid" : "133ba29157fcaf8f",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465180908,
+        "stop" : 1653465192285,
+        "duration" : 11377
+      }
+    }, {
+      "uid" : "2cd3702c0bea261b",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465180717,
+        "stop" : 1653465192199,
+        "duration" : 11482
+      }
+    }, {
+      "uid" : "d08a7b09c3b8d984",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653464997166,
+        "stop" : 1653465005369,
+        "duration" : 8203
+      }
+    }, {
+      "uid" : "59c3badb8114b39",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653464997141,
+        "stop" : 1653465005369,
+        "duration" : 8228
+      }
+    }, {
+      "uid" : "6c69cede95d0977d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653392532423,
+        "stop" : 1653392543902,
+        "duration" : 11479
+      }
+    }, {
+      "uid" : "d2f3a45776ed1749",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653392532094,
+        "stop" : 1653392544712,
+        "duration" : 12618
+      }
+    }, {
+      "uid" : "8b88129381d5e34",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392496107,
+        "stop" : 1653392507661,
+        "duration" : 11554
+      }
+    }, {
+      "uid" : "3274d6918688555b",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392496104,
+        "stop" : 1653392507794,
+        "duration" : 11690
+      }
+    }, {
+      "uid" : "6e568cc3b44510dd",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392438949,
+        "stop" : 1653392450912,
+        "duration" : 11963
+      }
+    }, {
+      "uid" : "f3c9dd4ada1143b2",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392438933,
+        "stop" : 1653392450566,
+        "duration" : 11633
+      }
+    }, {
+      "uid" : "372647f437d4820b",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392373327,
+        "stop" : 1653392384823,
+        "duration" : 11496
+      }
+    }, {
+      "uid" : "f2b96f38054cd79d",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653392373153,
+        "stop" : 1653392384726,
+        "duration" : 11573
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "6e8e84f081fb3323.json",
+  "parameterValues" : [ "chrome-101.0.4951.64" ]
+}
