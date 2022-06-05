@@ -11,5 +11,6 @@ describe('Dunzo Login', () => {
         await $('input[placeholder="Search for item or a store"]').setValue('fruits')
         browser.pause(5000)
         await browser.keys("Enter")
+        awiat
     })
 })

@@ -1,55 +1,15 @@
 [ {
-  "uid" : "6e8e84f081fb3323",
-  "name" : "should login with valid credentials",
-  "time" : {
-    "start" : 1653465906413,
-    "stop" : 1653465917872,
-    "duration" : 11459
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1836323b42204f40",
-  "name" : "alert message for besic auth",
-  "time" : {
-    "start" : 1653501402570,
-    "stop" : 1653501412940,
-    "duration" : 10370
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "d8103c6884205346",
-  "name" : "alert message for besic auth",
-  "time" : {
-    "start" : 1653465490327,
-    "stop" : 1653465500662,
-    "duration" : 10335
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "dcc21f0b4f49981a",
+  "uid" : "47c1e0cfbe8abb4e",
   "name" : "search for groceries",
   "time" : {
-    "start" : 1653838788891,
-    "stop" : 1653838796207,
-    "duration" : 7316
+    "start" : 1654416691358,
+    "stop" : 1654416698464,
+    "duration" : 7106
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "74186ba5c2c87f60",
-  "name" : "scrolling horizontallu",
-  "time" : {
-    "start" : 1653838789160,
-    "stop" : 1653838797858,
-    "duration" : 8698
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2ced35e2c7fcd884",
+  "uid" : "4301754455906bdd",
   "name" : "should login with valid credentials",
   "time" : {
     "start" : 1653501457229,
@@ -59,7 +19,87 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "fa6bf7b01a029c27",
+  "uid" : "bbdd8bfdbbac667b",
+  "name" : "alert message for besic auth",
+  "time" : {
+    "start" : 1653465490327,
+    "stop" : 1653465500662,
+    "duration" : 10335
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "89e7d0ceff951ea3",
+  "name" : "scrolling horizontallu",
+  "time" : {
+    "start" : 1654416705322,
+    "stop" : 1654416710495,
+    "duration" : 5173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "291df59ffdb6e6f",
+  "name" : "alert message for besic auth",
+  "time" : {
+    "start" : 1653501402570,
+    "stop" : 1653501412940,
+    "duration" : 10370
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "67a77cc8759bb75b",
+  "name" : "search for groceries",
+  "time" : {
+    "start" : 1654416692779,
+    "stop" : 1654416700090,
+    "duration" : 7311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41947b5603ee2048",
+  "name" : "scrolling horizontallu",
+  "time" : {
+    "start" : 1654416706320,
+    "stop" : 1654416713041,
+    "duration" : 6721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "60c7de523595c9cf",
+  "name" : "should login with valid credentials",
+  "time" : {
+    "start" : 1653465906413,
+    "stop" : 1653465917872,
+    "duration" : 11459
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "256081e405a3a936",
+  "name" : "scrolling horizontallu",
+  "time" : {
+    "start" : 1654416430191,
+    "stop" : 1654416435761,
+    "duration" : 5570
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d26d61071e0defcc",
+  "name" : "search for groceries",
+  "time" : {
+    "start" : 1654416423617,
+    "stop" : 1654416427855,
+    "duration" : 4238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43a59110f4496075",
   "name" : "clicked checkboxes",
   "time" : {
     "start" : 1653472961137,
@@ -69,7 +109,7 @@
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "8540454fe0abf4fb",
+  "uid" : "d5a8cb25f2c7ed36",
   "name" : "forgot password",
   "time" : {
     "start" : 1653501466273,

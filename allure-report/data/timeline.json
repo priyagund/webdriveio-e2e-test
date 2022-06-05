@@ -1,17 +1,16 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "name" : "timeline",
   "children" : [ {
     "name" : "0-1",
     "children" : [ {
       "name" : "alert message for besic auth",
-      "uid" : "ef47b40759955f66",
+      "uid" : "71911ff2aefcd935",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
-        "start" : 1653465454249,
-        "stop" : 1653465464609,
-        "duration" : 10360
+        "start" : 1653392384827,
+        "stop" : 1653392395219,
+        "duration" : 10392
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,25 +20,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "624bd9df7793ae8",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653838768915,
-        "stop" : 1653838774404,
-        "duration" : 5489
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
       "name" : "should login with valid credentials",
-      "uid" : "6c69cede95d0977d",
+      "uid" : "b5af8819a2525004",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
@@ -55,195 +37,8 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "74186ba5c2c87f60",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653838789160,
-        "stop" : 1653838797858,
-        "duration" : 8698
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 17,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "2c58cc5f99087673",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392052601,
-        "stop" : 1653392064255,
-        "duration" : 11654
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "7279547c3c195be7",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653829488209,
-        "stop" : 1653829494674,
-        "duration" : 6465
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "696419d1e37f0d2e",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653726940651,
-        "stop" : 1653726945043,
-        "duration" : 4392
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "d966c0fedbaceba0",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653829428668,
-        "stop" : 1653829435520,
-        "duration" : 6852
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
       "name" : "should login with valid credentials",
-      "uid" : "42ac2e72c47ebef2",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465442507,
-        "stop" : 1653465454248,
-        "duration" : 11741
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "59c3badb8114b39",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653464997141,
-        "stop" : 1653465005369,
-        "duration" : 8228
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "e0bc23df7ab34826",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653829378809,
-        "stop" : 1653829383487,
-        "duration" : 4678
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "372647f437d4820b",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392373327,
-        "stop" : 1653392384823,
-        "duration" : 11496
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "df147ab69c56ff97",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653837169605,
-        "stop" : 1653837174564,
-        "duration" : 4959
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "15c371bb8d561ada",
-      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653837185233,
-        "stop" : 1653837191334,
-        "duration" : 6101
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "133ba29157fcaf8f",
+      "uid" : "c20ab2af31127bb7",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
@@ -260,13 +55,64 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "scrolling horizontallu",
-      "uid" : "dd4e1e189a21453a",
+      "uid" : "5939ee3fe90043c5",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1653837512484,
-        "stop" : 1653837517188,
-        "duration" : 4704
+        "start" : 1654415122453,
+        "stop" : 1654415127438,
+        "duration" : 4985
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "fafaadd01fdfb143",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415724723,
+        "stop" : 1654415729257,
+        "duration" : 4534
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "d0bed70c496159ac",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413771343,
+        "stop" : 1654413775324,
+        "duration" : 3981
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "497a97d9dd9ab8fd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653726940651,
+        "stop" : 1653726945043,
+        "duration" : 4392
       },
       "flaky" : false,
       "newFailed" : false,
@@ -276,14 +122,116 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
-      "name" : "alert message for besic auth",
-      "uid" : "1f312472d2a519bd",
+      "name" : "scrolling horizontallu",
+      "uid" : "89e7d0ceff951ea3",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1653391587934,
-        "stop" : 1653391599495,
-        "duration" : 11561
+        "start" : 1654416705322,
+        "stop" : 1654416710495,
+        "duration" : 5173
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 21,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "aabd740ad9e2394e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838789160,
+        "stop" : 1653838797858,
+        "duration" : 8698
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "93e81fc5ae99e56e",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415230049,
+        "stop" : 1654415238075,
+        "duration" : 8026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "530df70779639f79",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415680840,
+        "stop" : 1654415687444,
+        "duration" : 6604
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "2f7cae10444e2f89",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829428668,
+        "stop" : 1653829435520,
+        "duration" : 6852
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "dece15f448b6d706",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413793297,
+        "stop" : 1654413797393,
+        "duration" : 4096
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "9df2cfbc94983f96",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653464997141,
+        "stop" : 1653465005369,
+        "duration" : 8228
       },
       "flaky" : false,
       "newFailed" : false,
@@ -293,8 +241,25 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "4aaa17f55ad7b3ab",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414016386,
+        "stop" : 1654414021043,
+        "duration" : 4657
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
       "name" : "should login with valid credentials",
-      "uid" : "8b88129381d5e34",
+      "uid" : "bfcfcc7a19c0b638",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
@@ -311,13 +276,200 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "scrolling horizontallu",
-      "uid" : "aebc422d16516e8f",
+      "uid" : "43539373c941fcb3",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "passed",
       "time" : {
-        "start" : 1653828977466,
-        "stop" : 1653828982473,
-        "duration" : 5007
+        "start" : 1653837169605,
+        "stop" : 1653837174564,
+        "duration" : 4959
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "a9b8e88c02c1b67c",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837185233,
+        "stop" : 1653837191334,
+        "duration" : 6101
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "9054e75465c93ef2",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653391587934,
+        "stop" : 1653391599495,
+        "duration" : 11561
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "702c37076d98f78b",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465454249,
+        "stop" : 1653465464609,
+        "duration" : 10360
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "c87fe86cfee5b1e8",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654192172368,
+        "stop" : 1654192179174,
+        "duration" : 6806
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "91d6d735d0d1036",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837512484,
+        "stop" : 1653837517188,
+        "duration" : 4704
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "5b00e540cb42b575",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413282616,
+        "stop" : 1654413288804,
+        "duration" : 6188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "8a55c7122d704771",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829378809,
+        "stop" : 1653829383487,
+        "duration" : 4678
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "6abd487f32526fdd",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416355274,
+        "stop" : 1654416360664,
+        "duration" : 5390
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "b6c59542568aef0f",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414588236,
+        "stop" : 1654414594215,
+        "duration" : 5979
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "69b04f1f430b331",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465442507,
+        "stop" : 1653465454248,
+        "duration" : 11741
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "1312ee1bce980ec6",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653829488209,
+        "stop" : 1653829494674,
+        "duration" : 6465
       },
       "flaky" : false,
       "newFailed" : false,
@@ -328,7 +480,7 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "f3c9dd4ada1143b2",
+      "uid" : "5fda681f1eebd0c8",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
@@ -344,562 +496,116 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "alert message for besic auth",
-      "uid" : "8d82953bd25db82",
+      "name" : "scrolling horizontallu",
+      "uid" : "da1d5d1a16340b34",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414039084,
+        "stop" : 1654414044960,
+        "duration" : 5876
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "f0fd043b7fc6b8a3",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838768915,
+        "stop" : 1653838774404,
+        "duration" : 5489
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "256081e405a3a936",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416430191,
+        "stop" : 1654416435761,
+        "duration" : 5570
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 12,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "63ac5bd751ca412",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653828977466,
+        "stop" : 1653828982473,
+        "duration" : 5007
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "968fabdf20ff5d48",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413989775,
+        "stop" : 1654413995653,
+        "duration" : 5878
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "7cd7ee043a6a6580",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414922304,
+        "stop" : 1654414927234,
+        "duration" : 4930
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "77f1d379cf62e5cd",
       "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
-        "start" : 1653392384827,
-        "stop" : 1653392395219,
-        "duration" : 10392
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    } ],
-    "uid" : "27fa874cadc1574e37a07abb440963bd"
-  }, {
-    "name" : "0-0",
-    "children" : [ {
-      "name" : "search for groceries",
-      "uid" : "e1f834975f54e7f9",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653837373361,
-        "stop" : 1653837376744,
-        "duration" : 3383
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "23fe83dc9f4f2334",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653471685533,
-        "stop" : 1653471695955,
-        "duration" : 10422
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "b1c2fc69934e6926",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653467277367,
-        "stop" : 1653467287769,
-        "duration" : 10402
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "5bfdca14de40b6",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653587103359,
-        "stop" : 1653587110162,
-        "duration" : 6803
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "d08a7b09c3b8d984",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653464997166,
-        "stop" : 1653465005369,
-        "duration" : 8203
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "313c533bf3297cbb",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653837200106,
-        "stop" : 1653837204446,
-        "duration" : 4340
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "8a996efb357dc961",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653727129680,
-        "stop" : 1653727133731,
-        "duration" : 4051
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "bd7a7c9d0bc8151a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653813946550,
-        "stop" : 1653813952251,
-        "duration" : 5701
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "8d1b3ca7b7f452d8",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392052160,
-        "stop" : 1653392064215,
-        "duration" : 12055
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "841faae9eeb5ae6b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653728083443,
-        "stop" : 1653728098256,
-        "duration" : 14813
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "2ced35e2c7fcd884",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653501457229,
-        "stop" : 1653501466272,
-        "duration" : 9043
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 13,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "56f6af8ee4634962",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465478942,
-        "stop" : 1653465490327,
-        "duration" : 11385
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "ecb23eebcc8b0146",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653586823980,
-        "stop" : 1653586828567,
-        "duration" : 4587
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "clicked checkboxes",
-      "uid" : "27def923878a19e2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653471695955,
-        "stop" : 1653471696362,
-        "duration" : 407
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "741c148cc568e6c7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653466863806,
-        "stop" : 1653466876433,
-        "duration" : 12627
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "6e568cc3b44510dd",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392438949,
-        "stop" : 1653392450912,
-        "duration" : 11963
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "b35bef5ed77561d4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653836857349,
-        "stop" : 1653836863002,
-        "duration" : 5653
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "2cd3702c0bea261b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465180717,
-        "stop" : 1653465192199,
-        "duration" : 11482
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "dcc21f0b4f49981a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653838788891,
-        "stop" : 1653838796207,
-        "duration" : 7316
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 35,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "59f66642172c2a8b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653837337852,
-        "stop" : 1653837341313,
-        "duration" : 3461
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "f2b96f38054cd79d",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392373153,
-        "stop" : 1653392384726,
-        "duration" : 11573
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "c2b5e23e8fb67d67",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653828977122,
-        "stop" : 1653829011074,
-        "duration" : 33952
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "f42a80f77ef9dbd",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653472263207,
-        "stop" : 1653472268082,
-        "duration" : 4875
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "b80e987e5deff350",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653829487888,
-        "stop" : 1653829493141,
-        "duration" : 5253
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "cae28e154c666bf",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653829411028,
-        "stop" : 1653829415899,
-        "duration" : 4871
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "c5085ad38647c786",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653829873477,
-        "stop" : 1653829906960,
-        "duration" : 33483
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "c17b135bd8a8cdf",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653466780597,
-        "stop" : 1653466792038,
-        "duration" : 11441
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "6a986da8fb580b0",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653484795769,
-        "stop" : 1653484802367,
-        "duration" : 6598
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "clicked checkboxes",
-      "uid" : "8ef34c45b14a2d3b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653472070497,
-        "stop" : 1653472070940,
-        "duration" : 443
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "clicked checkboxes",
-      "uid" : "fa6bf7b01a029c27",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653472961137,
-        "stop" : 1653472961510,
-        "duration" : 373
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 5,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "b3dc3b612a8907a4",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653836833705,
-        "stop" : 1653836836036,
-        "duration" : 2331
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "3bc153eb4f030bdc",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465192199,
-        "stop" : 1653465202686,
-        "duration" : 10487
+        "start" : 1653392373327,
+        "stop" : 1653392384823,
+        "duration" : 11496
       },
       "flaky" : false,
       "newFailed" : false,
@@ -910,233 +616,12 @@
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
       "name" : "alert message for besic auth",
-      "uid" : "d597cd2347a329b8",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "uid" : "e0a8f608ee91fc88",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
       "status" : "broken",
       "time" : {
-        "start" : 1653467027705,
-        "stop" : 1653467038214,
-        "duration" : 10509
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "1836323b42204f40",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653501402570,
-        "stop" : 1653501412940,
-        "duration" : 10370
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 7,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "b8de508def9f5175",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653814177854,
-        "stop" : 1653814183108,
-        "duration" : 5254
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "fe8349473d20a5c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653813985233,
-        "stop" : 1653813988392,
-        "duration" : 3159
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "11ee0b126bdd8596",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653837184995,
-        "stop" : 1653837189176,
-        "duration" : 4181
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "46618aa0b66412cd",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653828195091,
-        "stop" : 1653828199494,
-        "duration" : 4403
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "d4ce47df7d2e1090",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653806337165,
-        "stop" : 1653806350703,
-        "duration" : 13538
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "2bb0788048b57906",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653471678956,
-        "stop" : 1653471685532,
-        "duration" : 6576
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "9afe49946c4abd7f",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653586793279,
-        "stop" : 1653586797480,
-        "duration" : 4201
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "af60cbd0123591ba",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653467021153,
-        "stop" : 1653467027705,
-        "duration" : 6552
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "a0c53cee8c074054",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653726940646,
-        "stop" : 1653726943534,
-        "duration" : 2888
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "be720f3234354b4b",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653727847831,
-        "stop" : 1653727851428,
-        "duration" : 3597
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "fc397de2181822a8",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653585339114,
-        "stop" : 1653585346394,
-        "duration" : 7280
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "c5e61b36ea5a0f40",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653391587747,
-        "stop" : 1653391599401,
+        "start" : 1653392052601,
+        "stop" : 1653392064255,
         "duration" : 11654
       },
       "flaky" : false,
@@ -1147,14 +632,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "alert message for besic auth",
-      "uid" : "f284869637e9d3fe",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "name" : "scrolling horizontallu",
+      "uid" : "721020741f8d23",
+      "parentUid" : "27fa874cadc1574e37a07abb440963bd",
+      "status" : "passed",
       "time" : {
-        "start" : 1653465454356,
-        "stop" : 1653465464704,
-        "duration" : 10348
+        "start" : 1654189982822,
+        "stop" : 1654190031046,
+        "duration" : 48224
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1162,10 +647,14 @@
       "newBroken" : false,
       "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    } ],
+    "uid" : "27fa874cadc1574e37a07abb440963bd"
+  }, {
+    "name" : "0-0",
+    "children" : [ {
       "name" : "scrolling horizontallu",
-      "uid" : "e9ef8ed0fd3c49cf",
+      "uid" : "969184cfe85f10be",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -1182,364 +671,7 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "search for groceries",
-      "uid" : "e09ba0708afd53aa",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653806702121,
-        "stop" : 1653806707509,
-        "duration" : 5388
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "f29709061c7ea963",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653472381557,
-        "stop" : 1653472386053,
-        "duration" : 4496
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "a1e575a85205f1b9",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653392384727,
-        "stop" : 1653392395153,
-        "duration" : 10426
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "c87f5c01f09b5cd5",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653829513424,
-        "stop" : 1653829517847,
-        "duration" : 4423
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "d2f3a45776ed1749",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653392532094,
-        "stop" : 1653392544712,
-        "duration" : 12618
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "6b9d4e7793281d31",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653501365524,
-        "stop" : 1653501376091,
-        "duration" : 10567
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "forgot password",
-      "uid" : "91adb6b501b9ecba",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653501412941,
-        "stop" : 1653501413748,
-        "duration" : 807
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "clicked checkboxes",
-      "uid" : "5faaeaadee21e44a",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653472268082,
-        "stop" : 1653472268471,
-        "duration" : 389
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "86ef279ddd7d9586",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653838769133,
-        "stop" : 1653838773711,
-        "duration" : 4578
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "d8103c6884205346",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465490327,
-        "stop" : 1653465500662,
-        "duration" : 10335
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 9,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "6e8e84f081fb3323",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465906413,
-        "stop" : 1653465917872,
-        "duration" : 11459
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 15,
-      "retriesStatusChange" : true,
-      "parameters" : [ "chrome-101.0.4951.64" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "f5599093866a2da3",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653828844780,
-        "stop" : 1653828879474,
-        "duration" : 34694
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "7a4c0244c735b78c",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653466876434,
-        "stop" : 1653466886793,
-        "duration" : 10359
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "20c8b5d22b5341b2",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653836620245,
-        "stop" : 1653836624068,
-        "duration" : 3823
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "8abbc5f9c7d8d048",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653466792039,
-        "stop" : 1653466802446,
-        "duration" : 10407
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "1774c74f17a520f7",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653501359248,
-        "stop" : 1653501365524,
-        "duration" : 6276
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "alert message for besic auth",
-      "uid" : "6ef3fdafd72de56",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653484802367,
-        "stop" : 1653484812836,
-        "duration" : 10469
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "55c7d20155f78ec1",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653727756259,
-        "stop" : 1653727760583,
-        "duration" : 4324
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "354e526e2725ffff",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653829429200,
-        "stop" : 1653829434353,
-        "duration" : 5153
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "scrolling horizontallu",
-      "uid" : "47d895b35410ac3",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653585462622,
-        "stop" : 1653585467763,
-        "duration" : 5141
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "926a344a5f478285",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653727100864,
-        "stop" : 1653727103551,
-        "duration" : 2687
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "search for groceries",
-      "uid" : "9dd019d45976e4ee",
+      "uid" : "988278db5493b0b8",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1556,13 +688,13 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "6148ef11c4eaef00",
+      "uid" : "b6cdecb2c0726a10",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653472157697,
-        "stop" : 1653472163113,
-        "duration" : 5416
+        "start" : 1653484795769,
+        "stop" : 1653484802367,
+        "duration" : 6598
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1572,14 +704,48 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
-      "name" : "should login with valid credentials",
-      "uid" : "93079ab3143f4e85",
+      "name" : "alert message for besic auth",
+      "uid" : "bbdd8bfdbbac667b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465490327,
+        "stop" : 1653465500662,
+        "duration" : 10335
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 9,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "504329e8cda49918",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653472955134,
-        "stop" : 1653472961137,
-        "duration" : 6003
+        "start" : 1653727129680,
+        "stop" : 1653727133731,
+        "duration" : 4051
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "4404ce77a7011df5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837337852,
+        "stop" : 1653837341313,
+        "duration" : 3461
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1590,13 +756,13 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "scrolling horizontallu",
-      "uid" : "3a210fff128972b",
+      "uid" : "9c0256f9dee23622",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1653585417333,
-        "stop" : 1653585423583,
-        "duration" : 6250
+        "start" : 1653586793279,
+        "stop" : 1653586797480,
+        "duration" : 4201
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1606,31 +772,31 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
-      "name" : "forgot password",
-      "uid" : "8540454fe0abf4fb",
+      "name" : "alert message for besic auth",
+      "uid" : "ee9de0c4cfa82b3a",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1653501466273,
-        "stop" : 1653501467005,
-        "duration" : 732
+        "start" : 1653465192199,
+        "stop" : 1653465202686,
+        "duration" : 10487
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 2,
+      "retriesCount" : 0,
       "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
+      "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "search for groceries",
-      "uid" : "facef760f4f8f50c",
+      "name" : "alert message for besic auth",
+      "uid" : "97146ea37cddb077",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
-        "start" : 1653806075812,
-        "stop" : 1653806078866,
-        "duration" : 3054
+        "start" : 1653501365524,
+        "stop" : 1653501376091,
+        "duration" : 10567
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1641,30 +807,13 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "e629033091b8bbe1",
+      "uid" : "68b6b1b6d999737e",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653467271602,
-        "stop" : 1653467277367,
-        "duration" : 5765
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "clicked checkboxes",
-      "uid" : "d1fe192f38f32216",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653472163116,
-        "stop" : 1653472163443,
-        "duration" : 327
+        "start" : 1653501359248,
+        "stop" : 1653501365524,
+        "duration" : 6276
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1675,7 +824,7 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "3274d6918688555b",
+      "uid" : "430750218defe695",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1691,8 +840,161 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
+      "name" : "should login with valid credentials",
+      "uid" : "1e049c2804d50f7f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653392373153,
+        "stop" : 1653392384726,
+        "duration" : 11573
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "e0431e843d802c4d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413762434,
+        "stop" : 1654413767639,
+        "duration" : 5205
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "291df59ffdb6e6f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653501402570,
+        "stop" : 1653501412940,
+        "duration" : 10370
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "9db6b985f8320779",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653806075812,
+        "stop" : 1653806078866,
+        "duration" : 3054
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "47c1e0cfbe8abb4e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416691358,
+        "stop" : 1654416698464,
+        "duration" : 7106
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 40,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "e0b91dc6f63f5d70",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653471695955,
+        "stop" : 1653471696362,
+        "duration" : 407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "6a7081c3049badff",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653829429200,
+        "stop" : 1653829434353,
+        "duration" : 5153
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "cb8a110392ba01dc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465180717,
+        "stop" : 1653465192199,
+        "duration" : 11482
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
       "name" : "scrolling horizontallu",
-      "uid" : "8f4e2161b23370f2",
+      "uid" : "c8092328c3236482",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653585462622,
+        "stop" : 1653585467763,
+        "duration" : 5141
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "73c4d2bbc2a34aa8",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1708,25 +1010,25 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
-      "name" : "search for groceries",
-      "uid" : "ab0fa88d77fc97e5",
+      "name" : "should login with valid credentials",
+      "uid" : "4301754455906bdd",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653837320665,
-        "stop" : 1653837323900,
-        "duration" : 3235
+        "start" : 1653501457229,
+        "stop" : 1653501466272,
+        "duration" : 9043
       },
       "flaky" : false,
       "newFailed" : false,
       "newPassed" : false,
       "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
+      "retriesCount" : 13,
+      "retriesStatusChange" : true,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "clicked checkboxes",
-      "uid" : "3ed4764ecfd48606",
+      "uid" : "b7c42c676b7c86fd",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -1742,8 +1044,212 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
+      "name" : "search for groceries",
+      "uid" : "8274719aa1196f21",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838788891,
+        "stop" : 1653838796207,
+        "duration" : 7316
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "587df28a04188498",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415680838,
+        "stop" : 1654415686387,
+        "duration" : 5549
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "55f1678c775884a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413981500,
+        "stop" : 1654413986815,
+        "duration" : 5315
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "afd986d0b806f6ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653836857349,
+        "stop" : 1653836863002,
+        "duration" : 5653
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "17a9f6d7c75ac38d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653466792039,
+        "stop" : 1653466802446,
+        "duration" : 10407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "7d05809ed9bf406",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653829487888,
+        "stop" : 1653829493141,
+        "duration" : 5253
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "b4b7b6c7a2427790",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653466876434,
+        "stop" : 1653466886793,
+        "duration" : 10359
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "a38002d9c45d46dd",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653392052160,
+        "stop" : 1653392064215,
+        "duration" : 12055
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "bf33253c1f37f5e2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653466863806,
+        "stop" : 1653466876433,
+        "duration" : 12627
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "2964cf8b053c5e5e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837373361,
+        "stop" : 1653837376744,
+        "duration" : 3383
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "f6a5db0029521d7f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653837169601,
+        "stop" : 1653837173890,
+        "duration" : 4289
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "67d1e132c50a7170",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501396413,
+        "stop" : 1653501402570,
+        "duration" : 6157
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
       "name" : "forgot password",
-      "uid" : "28a26554958cd6b7",
+      "uid" : "eddba840a245c699",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
@@ -1760,13 +1266,13 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "search for groceries",
-      "uid" : "8ebe718d52c47b47",
+      "uid" : "1445bdb4d81e4a59",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653837512509,
-        "stop" : 1653837516933,
-        "duration" : 4424
+        "start" : 1654189983160,
+        "stop" : 1654190026789,
+        "duration" : 43629
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1777,7 +1283,500 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "search for groceries",
-      "uid" : "e7d2668be6e31205",
+      "uid" : "8d53d301fbc5f3ee",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415718793,
+        "stop" : 1654415722790,
+        "duration" : 3997
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "7b8e5170d7b0d5f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653727100864,
+        "stop" : 1653727103551,
+        "duration" : 2687
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "440053d9e476c046",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653829873477,
+        "stop" : 1653829906960,
+        "duration" : 33483
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "1d6723ddd73be942",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465454356,
+        "stop" : 1653465464704,
+        "duration" : 10348
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "57bd378a1d729ab7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653392532094,
+        "stop" : 1653392544712,
+        "duration" : 12618
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "forgot password",
+      "uid" : "8e931cb3250cf209",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501412941,
+        "stop" : 1653501413748,
+        "duration" : 807
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "b8a10948fc73e679",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653392438949,
+        "stop" : 1653392450912,
+        "duration" : 11963
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "a5b6a4be524562e7",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653466780597,
+        "stop" : 1653466792038,
+        "duration" : 11441
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "348fc3f969cebbf1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472268082,
+        "stop" : 1653472268471,
+        "duration" : 389
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "61ccc4c7c984d7ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653836833705,
+        "stop" : 1653836836036,
+        "duration" : 2331
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "d28afbe0ee2561f0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653587103359,
+        "stop" : 1653587110162,
+        "duration" : 6803
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "375cf697bac0d050",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653828195091,
+        "stop" : 1653828199494,
+        "duration" : 4403
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "60c7de523595c9cf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465906413,
+        "stop" : 1653465917872,
+        "duration" : 11459
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 15,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "2b7a41611d4fb242",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653585339114,
+        "stop" : 1653585346394,
+        "duration" : 7280
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "4cc69b0e2f5ebb2e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653728083443,
+        "stop" : 1653728098256,
+        "duration" : 14813
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "43a59110f4496075",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653472961137,
+        "stop" : 1653472961510,
+        "duration" : 373
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 5,
+      "retriesStatusChange" : true,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "6d0ade2c9c5f63d4",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472263207,
+        "stop" : 1653472268082,
+        "duration" : 4875
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "f748f299e943e320",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653828844780,
+        "stop" : 1653828879474,
+        "duration" : 34694
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "28b06d0dc976f066",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654192172368,
+        "stop" : 1654192180365,
+        "duration" : 7997
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "3d0eeb64607d51a2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653837184995,
+        "stop" : 1653837189176,
+        "duration" : 4181
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "ee2cb7f7131e8c6b",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472157697,
+        "stop" : 1653472163113,
+        "duration" : 5416
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "8e571a88bd56f72d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414916121,
+        "stop" : 1654414920121,
+        "duration" : 4000
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e75bf3eacae0780f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467021153,
+        "stop" : 1653467027705,
+        "duration" : 6552
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "371cd3293f3f6ed6",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653837200106,
+        "stop" : 1653837204446,
+        "duration" : 4340
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "5b20d182404c2de3",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653726940646,
+        "stop" : 1653726943534,
+        "duration" : 2888
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "6e45dc39303633e1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414579763,
+        "stop" : 1654414585130,
+        "duration" : 5367
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "90ad74050df35cfe",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653829411028,
+        "stop" : 1653829415899,
+        "duration" : 4871
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "d26d61071e0defcc",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416423617,
+        "stop" : 1654416427855,
+        "duration" : 4238
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 12,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "a1e273c05a6f6512",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653467277367,
+        "stop" : 1653467287769,
+        "duration" : 10402
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "196b7924cd3f08d0",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1794,7 +1793,245 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "search for groceries",
-      "uid" : "7af7ca0ca8ad1926",
+      "uid" : "5c4c7e3181a2e93",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837320665,
+        "stop" : 1653837323900,
+        "duration" : 3235
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "d840803b45b508d9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653837512509,
+        "stop" : 1653837516933,
+        "duration" : 4424
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "4add9bfeb54dc2b5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653467027705,
+        "stop" : 1653467038214,
+        "duration" : 10509
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "e69ced8628b9b8d",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653828977122,
+        "stop" : 1653829011074,
+        "duration" : 33952
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "609ccb7545044142",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653391587747,
+        "stop" : 1653391599401,
+        "duration" : 11654
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "fa6d39ab6a45b1b9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472065067,
+        "stop" : 1653472070496,
+        "duration" : 5429
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "be0e7bc3218288a",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653727756259,
+        "stop" : 1653727760583,
+        "duration" : 4324
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "77b18706a5c54e66",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413282642,
+        "stop" : 1654413288049,
+        "duration" : 5407
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "50c66e6006d5ab5",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415230049,
+        "stop" : 1654415237587,
+        "duration" : 7538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "720b4791da9ff8e9",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472163116,
+        "stop" : 1653472163443,
+        "duration" : 327
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "forgot password",
+      "uid" : "d5a8cb25f2c7ed36",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653501466273,
+        "stop" : 1653501467005,
+        "duration" : 732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 2,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "f57288512c58a9ac",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653727847831,
+        "stop" : 1653727851428,
+        "duration" : 3597
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "e42c9e1a84197f53",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414007984,
+        "stop" : 1654414012477,
+        "duration" : 4493
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "8c8f22cebb73013f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653838769133,
+        "stop" : 1653838773711,
+        "duration" : 4578
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "a6fcfdd60e3d4482",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1811,7 +2048,398 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "search for groceries",
-      "uid" : "24af107672fad0e1",
+      "uid" : "80bcc4cf5c6e628",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654414030521,
+        "stop" : 1654414033759,
+        "duration" : 3238
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "62620eb32859c138",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653586823980,
+        "stop" : 1653586828567,
+        "duration" : 4587
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "2f885b3604c7e704",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472381557,
+        "stop" : 1653472386053,
+        "duration" : 4496
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "bf7b1cd9a2091a7f",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653813946550,
+        "stop" : 1653813952251,
+        "duration" : 5701
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "bf90e16c4c32f10e",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653806337165,
+        "stop" : 1653806350703,
+        "duration" : 13538
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "clicked checkboxes",
+      "uid" : "598732923e431faf",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472070497,
+        "stop" : 1653472070940,
+        "duration" : 443
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "a4da832d31015886",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653814177854,
+        "stop" : 1653814183108,
+        "duration" : 5254
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "96dd94e80e1b8ada",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465478942,
+        "stop" : 1653465490327,
+        "duration" : 11385
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "c27dfdf6a6dc2788",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653813985233,
+        "stop" : 1653813988392,
+        "duration" : 3159
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "e35fe3c8e20d8f0c",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653465442919,
+        "stop" : 1653465454356,
+        "duration" : 11437
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "8bb7ea4e2652b644",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653472955134,
+        "stop" : 1653472961137,
+        "duration" : 6003
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "41f0220129c7b8f1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653829513424,
+        "stop" : 1653829517847,
+        "duration" : 4423
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "be7f327991ab4c90",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653484802367,
+        "stop" : 1653484812836,
+        "duration" : 10469
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "13558ebf795e7266",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416349211,
+        "stop" : 1654416352912,
+        "duration" : 3701
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "21e5bfcfaf38d567",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654191452363,
+        "stop" : 1654191456205,
+        "duration" : 3842
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "33279676cf999df0",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654413787887,
+        "stop" : 1654413791075,
+        "duration" : 3188
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "ae26927a78e0248",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654415114495,
+        "stop" : 1654415119817,
+        "duration" : 5322
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "6cadca3cf905ae17",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653806702121,
+        "stop" : 1653806707509,
+        "duration" : 5388
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "5a640c64de2f8efa",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653471685533,
+        "stop" : 1653471695955,
+        "duration" : 10422
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "ec4e026a2237cee2",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653836620245,
+        "stop" : 1653836624068,
+        "duration" : 3823
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "scrolling horizontallu",
+      "uid" : "1a7852f0e8e9de46",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653585417333,
+        "stop" : 1653585423583,
+        "duration" : 6250
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "should login with valid credentials",
+      "uid" : "762bdfacce57a9d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1653467271602,
+        "stop" : 1653467277367,
+        "duration" : 5765
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-102.0.5005.61" ]
+    }, {
+      "name" : "alert message for besic auth",
+      "uid" : "57c7761a988ab0d1",
+      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
+      "status" : "broken",
+      "time" : {
+        "start" : 1653392384727,
+        "stop" : 1653392395153,
+        "duration" : 10426
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-101.0.4951.64" ]
+    }, {
+      "name" : "search for groceries",
+      "uid" : "f5a3d62cfeff2a8b",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "broken",
       "time" : {
@@ -1828,47 +2456,13 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     }, {
       "name" : "should login with valid credentials",
-      "uid" : "f819abac9cda6b4",
+      "uid" : "5389cee39d20085f",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
       "status" : "passed",
       "time" : {
-        "start" : 1653472065067,
-        "stop" : 1653472070496,
-        "duration" : 5429
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "c66244dede4cbe07",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653501396413,
-        "stop" : 1653501402570,
-        "duration" : 6157
-      },
-      "flaky" : false,
-      "newFailed" : false,
-      "newPassed" : false,
-      "newBroken" : false,
-      "retriesCount" : 0,
-      "retriesStatusChange" : false,
-      "parameters" : [ "chrome-102.0.5005.61" ]
-    }, {
-      "name" : "should login with valid credentials",
-      "uid" : "e0ca8f96716c5b00",
-      "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
-      "time" : {
-        "start" : 1653465442919,
-        "stop" : 1653465454356,
-        "duration" : 11437
+        "start" : 1653464997166,
+        "stop" : 1653465005369,
+        "duration" : 8203
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1878,14 +2472,14 @@
       "retriesStatusChange" : false,
       "parameters" : [ "chrome-101.0.4951.64" ]
     }, {
-      "name" : "search for groceries",
-      "uid" : "4fddf2fb8c1c4206",
+      "name" : "should login with valid credentials",
+      "uid" : "43d2604e558297f0",
       "parentUid" : "516fe00eea05ad99e936fa729b55eff4",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1653837169601,
-        "stop" : 1653837173890,
-        "duration" : 4289
+        "start" : 1653471678956,
+        "stop" : 1653471685532,
+        "duration" : 6576
       },
       "flaky" : false,
       "newFailed" : false,
@@ -1896,5 +2490,48 @@
       "parameters" : [ "chrome-102.0.5005.61" ]
     } ],
     "uid" : "516fe00eea05ad99e936fa729b55eff4"
-  } ]
+  }, {
+    "name" : "1-0",
+    "children" : [ {
+      "name" : "search for groceries",
+      "uid" : "67a77cc8759bb75b",
+      "parentUid" : "5d884c24784638b93056bad95e3212e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416692779,
+        "stop" : 1654416700090,
+        "duration" : 7311
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-101.0" ]
+    } ],
+    "uid" : "5d884c24784638b93056bad95e3212e7"
+  }, {
+    "name" : "1-1",
+    "children" : [ {
+      "name" : "scrolling horizontallu",
+      "uid" : "41947b5603ee2048",
+      "parentUid" : "7f515bb52d6d225c0a299e7d9c0e2786",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416706320,
+        "stop" : 1654416713041,
+        "duration" : 6721
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-101.0" ]
+    } ],
+    "uid" : "7f515bb52d6d225c0a299e7d9c0e2786"
+  } ],
+  "name" : "timeline"
 }

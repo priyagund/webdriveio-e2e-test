@@ -1,21 +1,20 @@
 {
-  "23ae1904ceebc19b4af9d3276590ca5a" : {
+  "d01517dc6844a083fa6837f51bc18a97" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "1836323b42204f40",
-      "status" : "broken",
-      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "uid" : "41947b5603ee2048",
+      "status" : "passed",
       "time" : {
-        "start" : 1653501402570,
-        "stop" : 1653501412940,
-        "duration" : 10370
+        "start" : 1654416706320,
+        "stop" : 1654416713041,
+        "duration" : 6721
       }
     } ]
   },
@@ -29,13 +28,33 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d8103c6884205346",
+      "uid" : "bbdd8bfdbbac667b",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
       "time" : {
         "start" : 1653465490327,
         "stop" : 1653465500662,
         "duration" : 10335
+      }
+    } ]
+  },
+  "23ae1904ceebc19b4af9d3276590ca5a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "291df59ffdb6e6f",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
+      "time" : {
+        "start" : 1653501402570,
+        "stop" : 1653501412940,
+        "duration" : 10370
       }
     } ]
   },
@@ -49,12 +68,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "74186ba5c2c87f60",
+      "uid" : "89e7d0ceff951ea3",
       "status" : "passed",
       "time" : {
-        "start" : 1653838789160,
-        "stop" : 1653838797858,
-        "duration" : 8698
+        "start" : 1654416705322,
+        "stop" : 1654416710495,
+        "duration" : 5173
       }
     } ]
   },
@@ -68,12 +87,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "dcc21f0b4f49981a",
+      "uid" : "47c1e0cfbe8abb4e",
       "status" : "passed",
       "time" : {
-        "start" : 1653838788891,
-        "stop" : 1653838796207,
-        "duration" : 7316
+        "start" : 1654416691358,
+        "stop" : 1654416698464,
+        "duration" : 7106
+      }
+    } ]
+  },
+  "6123a29c2d8d2ae012eed0295bfb2f6f" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "67a77cc8759bb75b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416692779,
+        "stop" : 1654416700090,
+        "duration" : 7311
       }
     } ]
   },
@@ -87,7 +125,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8540454fe0abf4fb",
+      "uid" : "d5a8cb25f2c7ed36",
       "status" : "passed",
       "time" : {
         "start" : 1653501466273,
@@ -106,7 +144,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "fa6bf7b01a029c27",
+      "uid" : "43a59110f4496075",
       "status" : "broken",
       "statusDetails" : "input is not defined",
       "time" : {
@@ -126,12 +164,31 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "2ced35e2c7fcd884",
+      "uid" : "4301754455906bdd",
       "status" : "passed",
       "time" : {
         "start" : 1653501457229,
         "stop" : 1653501466272,
         "duration" : 9043
+      }
+    } ]
+  },
+  "a4a47d21b0d48b687be821eb7cb016a9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d26d61071e0defcc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416423617,
+        "stop" : 1654416427855,
+        "duration" : 4238
       }
     } ]
   },
@@ -145,13 +202,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "6e8e84f081fb3323",
+      "uid" : "60c7de523595c9cf",
       "status" : "broken",
       "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
       "time" : {
         "start" : 1653465906413,
         "stop" : 1653465917872,
         "duration" : 11459
+      }
+    } ]
+  },
+  "6d9593afe828a69c20b801570fb9c147" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "256081e405a3a936",
+      "status" : "passed",
+      "time" : {
+        "start" : 1654416430191,
+        "stop" : 1654416435761,
+        "duration" : 5570
       }
     } ]
   }
