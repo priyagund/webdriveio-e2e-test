@@ -9,12 +9,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "41947b5603ee2048",
+      "uid" : "dee202232f9caf87",
       "status" : "passed",
       "time" : {
-        "start" : 1654416706320,
-        "stop" : 1654416713041,
-        "duration" : 6721
+        "start" : 1654947763284,
+        "stop" : 1654947770054,
+        "duration" : 6770
       }
     } ]
   },
@@ -28,7 +28,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "bbdd8bfdbbac667b",
+      "uid" : "922735d3135a040",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
       "time" : {
@@ -48,7 +48,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "291df59ffdb6e6f",
+      "uid" : "b5dae2134619b99d",
       "status" : "broken",
       "statusDetails" : "Can't call click on element with selector \"#checkboxes\" because element wasn't found",
       "time" : {
@@ -68,69 +68,52 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "89e7d0ceff951ea3",
+      "uid" : "a20eda8b73e27e67",
       "status" : "passed",
       "time" : {
-        "start" : 1654416705322,
-        "stop" : 1654416710495,
-        "duration" : 5173
+        "start" : 1654947757307,
+        "stop" : 1654947761295,
+        "duration" : 3988
       }
     } ]
   },
   "b8c4fc1ed315a134944858fc2bd1462f" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "47c1e0cfbe8abb4e",
-      "status" : "passed",
+      "uid" : "8c21c0cd4998c463",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"button=Add item\" because element wasn't found",
       "time" : {
-        "start" : 1654416691358,
-        "stop" : 1654416698464,
-        "duration" : 7106
+        "start" : 1654947712516,
+        "stop" : 1654947754058,
+        "duration" : 41542
       }
     } ]
   },
   "6123a29c2d8d2ae012eed0295bfb2f6f" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "67a77cc8759bb75b",
-      "status" : "passed",
+      "uid" : "4040165d69cc0b30",
+      "status" : "broken",
+      "statusDetails" : "Can't call click on element with selector \"button=Add item\" because element wasn't found",
       "time" : {
-        "start" : 1654416692779,
-        "stop" : 1654416700090,
-        "duration" : 7311
-      }
-    } ]
-  },
-  "a7d06a7ea6c558a2750594eba65c73c8" : {
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    },
-    "items" : [ {
-      "uid" : "d5a8cb25f2c7ed36",
-      "status" : "passed",
-      "time" : {
-        "start" : 1653501466273,
-        "stop" : 1653501467005,
-        "duration" : 732
+        "start" : 1654947713547,
+        "stop" : 1654947757538,
+        "duration" : 43991
       }
     } ]
   },
@@ -144,7 +127,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "43a59110f4496075",
+      "uid" : "cff1bb5de53fdc8",
       "status" : "broken",
       "statusDetails" : "input is not defined",
       "time" : {
@@ -154,7 +137,7 @@
       }
     } ]
   },
-  "3e260fc30ad726f192bfbddf598fbeab" : {
+  "a7d06a7ea6c558a2750594eba65c73c8" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
@@ -164,12 +147,12 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "4301754455906bdd",
+      "uid" : "dac39a91e3e5b4c6",
       "status" : "passed",
       "time" : {
-        "start" : 1653501457229,
-        "stop" : 1653501466272,
-        "duration" : 9043
+        "start" : 1653501466273,
+        "stop" : 1653501467005,
+        "duration" : 732
       }
     } ]
   },
@@ -183,7 +166,7 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "d26d61071e0defcc",
+      "uid" : "bdce9565c5fb7e57",
       "status" : "passed",
       "time" : {
         "start" : 1654416423617,
@@ -192,23 +175,22 @@
       }
     } ]
   },
-  "28e7e95ab9dea7c7a8f12d1ed229a857" : {
+  "3e260fc30ad726f192bfbddf598fbeab" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 0,
       "skipped" : 0,
-      "passed" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     },
     "items" : [ {
-      "uid" : "60c7de523595c9cf",
-      "status" : "broken",
-      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "uid" : "2bf0e53f04c5d917",
+      "status" : "passed",
       "time" : {
-        "start" : 1653465906413,
-        "stop" : 1653465917872,
-        "duration" : 11459
+        "start" : 1653501457229,
+        "stop" : 1653501466272,
+        "duration" : 9043
       }
     } ]
   },
@@ -222,12 +204,32 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "256081e405a3a936",
+      "uid" : "8955ed11c9288ce8",
       "status" : "passed",
       "time" : {
         "start" : 1654416430191,
         "stop" : 1654416435761,
         "duration" : 5570
+      }
+    } ]
+  },
+  "28e7e95ab9dea7c7a8f12d1ed229a857" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9686a151c83d16c0",
+      "status" : "broken",
+      "statusDetails" : "Can't call setValue on element with selector \"#username\" because element wasn't found",
+      "time" : {
+        "start" : 1653465906413,
+        "stop" : 1653465917872,
+        "duration" : 11459
       }
     } ]
   }
